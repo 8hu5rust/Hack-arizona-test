@@ -14,4 +14,9 @@ p {
 }
 
 #banner {
-  font-size
+  font-size: 50 px;
+}
+
+.id{
+  border-style: 1px black dashed;
+}
